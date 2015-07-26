@@ -2,12 +2,6 @@
    Author's custom styles
    ========================================================================== */
 
-#map-container { height: 180px; }
-
-."carousel slide" {
-	width: 500px;
-	height: 700px;
-}
 
 .jumbotron {
 	background-color:white;
