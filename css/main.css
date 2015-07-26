@@ -4,17 +4,16 @@
 
 #map-container { height: 180px; }
 
+."carousel slide" {
+	width: 500px;
+	height: 700px;
+}
 
+.jumbotron {
+	background-color:white;
+	text-align: center;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
+jumbotron p {
+	text-align: center;
+}
